@@ -1,1 +1,0 @@
-# qunatum_primes_scanner
